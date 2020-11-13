@@ -1,6 +1,6 @@
 # ETL-Project
-Bretton and Cindy's ETL Project
-Data sources:
+Bretton and Cindy's ETL Project /n
+Data sources: /n
 Billboard Chart Hot 600 https://www.billboard.com/charts/hot-100-60th-anniversary
 
 Rolling Stones Magazine Top 500 https://www.kaggle.com/omarhanyy/500-greatest-songs-of-all-time?select=Top+500+Songs.csv
