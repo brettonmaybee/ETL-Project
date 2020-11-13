@@ -1,0 +1,501 @@
+RS_Rank,Title,Album,Artist,Year 
+1,Shop Around,The Ultimate Collection (Motown),Smokey Robinson and the Miracles,1960
+2,Buddy Holly,Weezer (Geffen),Weezer,1994
+3,Miss You,Some Girls (Virgin),The Rolling Stones,1978
+4,The Rising,The Rising (Columbia),Bruce Springsteen,2002
+5,Running on Empty,Running on Empty (Elektra),Jackson Browne,1977
+6,Brown Sugar,Sticky Fingers (Virgin),The Rolling Stones,1971
+7,Ignition (Remix),Chocolate Factory (Jive),R. Kelly,2002
+8,Time to Pretend,Oracular Spectacular (Columbia),MGMT,2008
+9,I Will Survive,I Will Survive: The Anthology (Polygram),Gloria Gaynor,1978
+10,I Love Rock N Roll,I Love Rock 'N Roll (Blackheart),Joan Jett and the Blackhearts,1982
+11,Clocks,A Rush of Blood to the Head (Capitol),Coldplay,2002
+12,Under the Boardwalk,The Very Best of the Drifters (Rhino),The Drifters,1964
+13,Just Like Heaven,"Kiss Me, Kiss Me, Kiss Me (Elektra)",The Cure,1987
+14,Im Eighteen,Love It to Death (Warner Bros.),Alice Cooper,1971
+15,Young Americans,Young Americans (Virgin),David Bowie,1975
+16,Lady Marmalade,Nightbirds (Epic),LaBelle,1975
+17,Cry Me a River,Justified (Jive),Justin Timberlake,2002
+18,White Rabbit,Surrealistic Pillow (RCA),Jefferson Airplane,1967
+19,Since U Been Gone,Breakaway (RCA),Kelly Clarkson,2004
+20,Super Freak,Street Songs (Motown),Rick James,1981
+21,Sabotage,Ill Communication (Capitol),Beastie Boys,1994
+22,I Want to Know What Love Is,Agent Provocateur (Atlantic),Foreigner,1984
+23,Last Nite,Is This It (RCA),The Strokes,2001
+24,How Soon Is Now?,Meat Is Murder (Warner Bros.),The Smiths,1985
+25,Do Right Woman — Do Right Man,I Never Loved a Man the Way I Love You (Rhino),Aretha Franklin,1967
+26,Where Did Our Love Go,The Ultimate Collection (Motown),The Supremes,1964
+27,Into the Mystic,Moondance (Warner Bros.),Van Morrison,1970
+28,Welcome to the Jungle,Appetite for Destruction (Geffen),Guns N' Roses,1987
+29,Runaway,Greatest Hits (Rhino),Del Shannon,1961
+30,Surrender,Heaven Tonight (Epic),Cheap Trick,1978
+31,Standing in the Shadows of Love,The Ultimate Collection (Motown),The Four Tops,1966
+32,Rain,Past Masters (Capitol/Apple),The Beatles,1966
+33,Respect Yourself,Bealtitude: Respect Yourself (Stax),The Staple Singers,1971
+34,Big Pimpin,Vol. 3: Life and Times of S. Carter (Roc-A-Fella),Jay-Z Featuring UGK,1999
+35,Get Ur Freak On,Miss E … So Addictive (Atlantic/ATG),Missy Elliott,2001
+36,Rollin Stone,The Anthology: 1947-1972 (Chess/MCA),Muddy Waters,1948
+37,Kiss,Parade (Warner Bros.),Prince and the Revolution,1986
+38,Soul Man,Soul Men (Rhino),Sam and Dave,1967
+39,All Apologies,In Utero (Geffen),Nirvana,1993
+40,Sheena Is a Punk Rocker,Rocket to Russia (Rhino),Ramones,1977
+41,My Sweet Lord,All Things Must Pass (Capitol),George Harrison,1970
+42,Paradise City,Appetite for Destruction (Geffen),Guns N' Roses,1987
+43,Cupid,Greatest Hits (RCA),Sam Cooke,1961
+44,The Twist,Greatest Hits (Prime Cuts),Chubby Checker,1960
+45,Penny Lane,Magical Mystery Tour (Capitol/Apple),The Beatles,1967
+46,Heroin,The Velvet Underground and Nico (Polydor),The Velvet Underground,1967
+47,Leader of the Pack,Myrmidons of Melodrama: Definitive Collection (RPM),The Shangri-Las,1964
+48,Pressure Drop,The Harder They Come (Hip-O),Toots and the Maytals,1973
+49,Come As You Are,Nevermind (Geffen),Nirvana,1991
+50,I Got You Babe,The Beat Goes On: The Best of Sonny and Cher (Atlantic),Sonny and Cher,1965
+51,Shop Around,The Ultimate Collection (Motown),Smokey Robinson and the Miracles,1960
+52,Buddy Holly,Weezer (Geffen),Weezer,1994
+53,Miss You,Some Girls (Virgin),The Rolling Stones,1978
+54,The Rising,The Rising (Columbia),Bruce Springsteen,2002
+55,Running on Empty,Running on Empty (Elektra),Jackson Browne,1977
+56,Brown Sugar,Sticky Fingers (Virgin),The Rolling Stones,1971
+57,Ignition (Remix),Chocolate Factory (Jive),R. Kelly,2002
+58,Time to Pretend,Oracular Spectacular (Columbia),MGMT,2008
+59,I Will Survive,I Will Survive: The Anthology (Polygram),Gloria Gaynor,1978
+60,I Love Rock N Roll,I Love Rock 'N Roll (Blackheart),Joan Jett and the Blackhearts,1982
+61,Clocks,A Rush of Blood to the Head (Capitol),Coldplay,2002
+62,Under the Boardwalk,The Very Best of the Drifters (Rhino),The Drifters,1964
+63,Just Like Heaven,"Kiss Me, Kiss Me, Kiss Me (Elektra)",The Cure,1987
+64,Im Eighteen,Love It to Death (Warner Bros.),Alice Cooper,1971
+65,Young Americans,Young Americans (Virgin),David Bowie,1975
+66,Lady Marmalade,Nightbirds (Epic),LaBelle,1975
+67,Cry Me a River,Justified (Jive),Justin Timberlake,2002
+68,White Rabbit,Surrealistic Pillow (RCA),Jefferson Airplane,1967
+69,Since U Been Gone,Breakaway (RCA),Kelly Clarkson,2004
+70,Super Freak,Street Songs (Motown),Rick James,1981
+71,Sabotage,Ill Communication (Capitol),Beastie Boys,1994
+72,I Want to Know What Love Is,Agent Provocateur (Atlantic),Foreigner,1984
+73,Last Nite,Is This It (RCA),The Strokes,2001
+74,How Soon Is Now?,Meat Is Murder (Warner Bros.),The Smiths,1985
+75,Do Right Woman — Do Right Man,I Never Loved a Man the Way I Love You (Rhino),Aretha Franklin,1967
+76,Where Did Our Love Go,The Ultimate Collection (Motown),The Supremes,1964
+77,Into the Mystic,Moondance (Warner Bros.),Van Morrison,1970
+78,Welcome to the Jungle,Appetite for Destruction (Geffen),Guns N' Roses,1987
+79,Runaway,Greatest Hits (Rhino),Del Shannon,1961
+80,Surrender,Heaven Tonight (Epic),Cheap Trick,1978
+81,Standing in the Shadows of Love,The Ultimate Collection (Motown),The Four Tops,1966
+82,Rain,Past Masters (Capitol/Apple),The Beatles,1966
+83,Respect Yourself,Bealtitude: Respect Yourself (Stax),The Staple Singers,1971
+84,Big Pimpin,Vol. 3: Life and Times of S. Carter (Roc-A-Fella),Jay-Z Featuring UGK,1999
+85,Get Ur Freak On,Miss E … So Addictive (Atlantic/ATG),Missy Elliott,2001
+86,Rollin Stone,The Anthology: 1947-1972 (Chess/MCA),Muddy Waters,1948
+87,Kiss,Parade (Warner Bros.),Prince and the Revolution,1986
+88,Soul Man,Soul Men (Rhino),Sam and Dave,1967
+89,All Apologies,In Utero (Geffen),Nirvana,1993
+90,Sheena Is a Punk Rocker,Rocket to Russia (Rhino),Ramones,1977
+91,My Sweet Lord,All Things Must Pass (Capitol),George Harrison,1970
+92,Paradise City,Appetite for Destruction (Geffen),Guns N' Roses,1987
+93,Cupid,Greatest Hits (RCA),Sam Cooke,1961
+94,The Twist,Greatest Hits (Prime Cuts),Chubby Checker,1960
+95,Penny Lane,Magical Mystery Tour (Capitol/Apple),The Beatles,1967
+96,Heroin,The Velvet Underground and Nico (Polydor),The Velvet Underground,1967
+97,Leader of the Pack,Myrmidons of Melodrama: Definitive Collection (RPM),The Shangri-Las,1964
+98,Pressure Drop,The Harder They Come (Hip-O),Toots and the Maytals,1973
+99,Come As You Are,Nevermind (Geffen),Nirvana,1991
+100,I Got You Babe,The Beat Goes On: The Best of Sonny and Cher (Atlantic),Sonny and Cher,1965
+101,I Shot the Sheriff,Burnin' (Island),Bob Marley and the Wailers,1973
+102,Come Go With Me,Golden Classics (Collectables),The Dell-Vikings,1957
+103,In Da Club,Get Rich or Die Tryin' (Interscope/Aftermath/Shady),50 Cent,2002
+104,Pink Houses,Uh-Huh (Mercury),John Cougar Mellencamp,1983
+105,Push It,"Hot, Cool and Vicious (London)",Salt 'n Pepa,1987
+106,I Wanna Be Your Dog,The Stooges (Elektra),The Stooges,1969
+107,Love Me Tender,Elvis: 30 #1 Hits (RCA),Elvis Presley,1956
+108,Beast of Burden,Some Girls (Virgin),The Rolling Stones,1978
+109,Alone Again Or,Forever Changes (Rhino),Love,1968
+110,Mustang Sally,The Very Best of Wilson Pickett (Rhino),Wilson Pickett,1966
+111,Ramble On,Led Zeppelin II (Atlantic),Led Zeppelin,1969
+112,Midnight Train to Georgia,Essential Collection (Hip-O),Gladys Knight and the Pips,1973
+113,Aint It a Shame,The Fats Domino Jukebox: 20 Greatest Hits (Capitol),Fats Domino,1955
+114,(White Man) In Hammersmith Palais,The Clash (Epic),The Clash,1979
+115,Everybody Needs Somebody to Love,The Very Best of Solomon Burke (Rhino),Solomon Burke,1964
+116,New Years Day,War (Island),U2,1983
+117,Smoke on the Water,Machine Head (Rhino),Deep Purple,1973
+118,Tumbling Dice,Exile on Main Street (Virgin),Rolling Stones,1972
+119,American Idiot,American Idiot (Reprise),Green Day,2004
+120,William,Louder Than Bombs (Sire),The Smiths,1984
+121,Blue Suede Shoes,2nd to None (BMG Heritage),Elvis Presley,1956
+122,Piano Man,Piano Man (Columbia),Billy Joel,1973
+123,Its Your Thing,The Ultimate Isley Brothers (Legacy),The Isley Brothers,1969
+124,Nuthin But a G Thang,The Chronic (Death Row),Dr. Dre,1993
+125,Stills and Nash,"Crosby, Stills and Nash (Atlantic)",Crosby,1969
+126,Fuck tha Police,Straight Outta Compton (Priority),N.W.A,1989
+127,Juicy,Ready to Die (Bad Boy),The Notorious B.I.G.,1994
+128,The Boys of Summer,Building the Perfect Beast (Geffen),Don Henley,1984
+129,Cant Help Myself,The Ultimate Collection (Motown),The Four Tops,1965
+130,Young Blood,The Very Best of the Coasters (Rhino),The Coasters,1957
+131,The Girl Cant Help It,The Georgia Peach (Specialty),Little Richard,1957
+132,Ode to Billie Joe,Greatest Hits (Curb),Bobbie Gentry,1967
+133,I Feel Love,The Donna Summer Anthology (Casablanca),Donna Summer,1977
+134,Monkey Gone to Heaven,Doolittle (4 AD/Elektra),Pixies,1989
+135,Sweet Emotion,Toys in the Attic (Sony),Aerosmith,1975
+136,In Bloom,Nevermind (Geffen),Nirvana,1991
+137,Weve Only Just Begun,Singles 1969-1981 (Interscope),Carpenters,1970
+138,Visions of Johanna,Blonde on Blonde (Columbia),Bob Dylan,1966
+139,Umbrella,Good Girl Gone Bad (Def Jam),Rihanna Featuring Jay-Z,2007
+140,Cmon Everybody,Something' Else (Razor and Tie),Eddie Cochran,1958
+141,Thank You (Falettinme Be Mice Elf Agin),Anthology (Epic),Sly and the Family Stone,1970
+142,Tonights the Night,25 All-Time Greatest Hits (Varèse Fontana),The Shirelles,1960
+143,Enter Sandman,Metallica (Elektra),Metallica,1991
+144,Sweet Home Alabama,Second Helping (MCA),Lynyrd Skynyrd,1974
+145,Thirteen,#1 Record/Radio City (Fantasy),Big Star,1972
+146,(Dont Fear) the Reaper,Agents of Fortune (Columbia),Blue Öyster Cult,1976
+147,Remember (Walkin in the Sand),The Best of the Shangri-Las (Mercury),The Shangri-Las,1964
+148,Cant Help Falling in Love,Elvis 30 #1 Hits (RCA),Elvis Presley,1961
+149,O-o-h Child,Soul Hits of the '70s: Didn't It Blow Your Mind! Vol. 2 (Rhino),The Five Stairsteps,1970
+150,Summer in the City,The Lovin' Spoonful Greatest Hits (Buddha),The Lovin' Spoonful,1966
+151,I Shot the Sheriff,Burnin' (Island),Bob Marley and the Wailers,1973
+152,Come Go With Me,Golden Classics (Collectables),The Dell-Vikings,1957
+153,In Da Club,Get Rich or Die Tryin' (Interscope/Aftermath/Shady),50 Cent,2002
+154,Pink Houses,Uh-Huh (Mercury),John Cougar Mellencamp,1983
+155,Push It,"Hot, Cool and Vicious (London)",Salt 'n Pepa,1987
+156,I Wanna Be Your Dog,The Stooges (Elektra),The Stooges,1969
+157,Love Me Tender,Elvis: 30 #1 Hits (RCA),Elvis Presley,1956
+158,Beast of Burden,Some Girls (Virgin),The Rolling Stones,1978
+159,Alone Again Or,Forever Changes (Rhino),Love,1968
+160,Mustang Sally,The Very Best of Wilson Pickett (Rhino),Wilson Pickett,1966
+161,Ramble On,Led Zeppelin II (Atlantic),Led Zeppelin,1969
+162,Midnight Train to Georgia,Essential Collection (Hip-O),Gladys Knight and the Pips,1973
+163,Aint It a Shame,The Fats Domino Jukebox: 20 Greatest Hits (Capitol),Fats Domino,1955
+164,(White Man) In Hammersmith Palais,The Clash (Epic),The Clash,1979
+165,Everybody Needs Somebody to Love,The Very Best of Solomon Burke (Rhino),Solomon Burke,1964
+166,New Years Day,War (Island),U2,1983
+167,Smoke on the Water,Machine Head (Rhino),Deep Purple,1973
+168,Tumbling Dice,Exile on Main Street (Virgin),Rolling Stones,1972
+169,American Idiot,American Idiot (Reprise),Green Day,2004
+170,William,Louder Than Bombs (Sire),The Smiths,1984
+171,Blue Suede Shoes,2nd to None (BMG Heritage),Elvis Presley,1956
+172,Piano Man,Piano Man (Columbia),Billy Joel,1973
+173,Its Your Thing,The Ultimate Isley Brothers (Legacy),The Isley Brothers,1969
+174,Nuthin But a G Thang,The Chronic (Death Row),Dr. Dre,1993
+175,Stills and Nash,"Crosby, Stills and Nash (Atlantic)",Crosby,1969
+176,Fuck tha Police,Straight Outta Compton (Priority),N.W.A,1989
+177,Juicy,Ready to Die (Bad Boy),The Notorious B.I.G.,1994
+178,The Boys of Summer,Building the Perfect Beast (Geffen),Don Henley,1984
+179,Cant Help Myself,The Ultimate Collection (Motown),The Four Tops,1965
+180,Young Blood,The Very Best of the Coasters (Rhino),The Coasters,1957
+181,The Girl Cant Help It,The Georgia Peach (Specialty),Little Richard,1957
+182,Ode to Billie Joe,Greatest Hits (Curb),Bobbie Gentry,1967
+183,I Feel Love,The Donna Summer Anthology (Casablanca),Donna Summer,1977
+184,Monkey Gone to Heaven,Doolittle (4 AD/Elektra),Pixies,1989
+185,Sweet Emotion,Toys in the Attic (Sony),Aerosmith,1975
+186,In Bloom,Nevermind (Geffen),Nirvana,1991
+187,Weve Only Just Begun,Singles 1969-1981 (Interscope),Carpenters,1970
+188,Visions of Johanna,Blonde on Blonde (Columbia),Bob Dylan,1966
+189,Umbrella,Good Girl Gone Bad (Def Jam),Rihanna Featuring Jay-Z,2007
+190,Cmon Everybody,Something' Else (Razor and Tie),Eddie Cochran,1958
+191,Thank You (Falettinme Be Mice Elf Agin),Anthology (Epic),Sly and the Family Stone,1970
+192,Tonights the Night,25 All-Time Greatest Hits (Varèse Fontana),The Shirelles,1960
+193,Enter Sandman,Metallica (Elektra),Metallica,1991
+194,Sweet Home Alabama,Second Helping (MCA),Lynyrd Skynyrd,1974
+195,Thirteen,#1 Record/Radio City (Fantasy),Big Star,1972
+196,(Dont Fear) the Reaper,Agents of Fortune (Columbia),Blue Öyster Cult,1976
+197,Remember (Walkin in the Sand),The Best of the Shangri-Las (Mercury),The Shangri-Las,1964
+198,Cant Help Falling in Love,Elvis 30 #1 Hits (RCA),Elvis Presley,1961
+199,O-o-h Child,Soul Hits of the '70s: Didn't It Blow Your Mind! Vol. 2 (Rhino),The Five Stairsteps,1970
+200,Summer in the City,The Lovin' Spoonful Greatest Hits (Buddha),The Lovin' Spoonful,1966
+201,Baby I Need Your Loving,The Ultimate Collection (Motown),The Four Tops,1964
+202,Just My Imagination,Anthology (Motown),The Temptations,1971
+203,Roxanne,Outlandos d'Amour (Interscope),The Police,1979
+204,Tiny Dancer,Madman Across the Water (Island),Elton John,1971
+205,Know You Got Soul,Paid in Full (Island),Eric B. and Rakim,1974
+206,Stills,Decade (Reprise),Crosby,1970
+207,Ticket to Ride,Help! (Capitol/Apple),The Beatles,1965
+208,Whipping Post,At Fillmore East (Mercury),The Allman Brothers Band,1969
+209,Bitter Sweet Symphony,Urban Hymns (Virgin),The Verve,1997
+210,Tell It Like It Is,Tell It Like It Is: Golden Classics (Collectables),Aaron Neville,1966
+211,Goodbye Yellow Brick Road,Goodbye Yellow Brick Road (Island),Elton John,1973
+212,Radio Free Europe,Murmur (A&M),R.E.M.,1983
+213,Pride (In the Name of Love),The Unforgettable Fire (Island),U2,1984
+214,Hit the Road Jack,Ultimate Hits Collection (Rhino),Ray Charles,1961
+215,Maps,Fever to Tell (Interscope),Yeah Yeah Yeahs,2004
+216,Fake Plastic Trees,The Bends (Capitol),Radiohead,1995
+217,Another Brick in the Wall Part 2,The Wall (Capitol),Pink Floyd,1979
+218,Brown Eyed Handsome Man,The Anthology (Chess),Chuck Berry,1956
+219,Wonderful World,Portrait of a Legend 1951-1964 (ABKCO),Sam Cooke,1960
+220,Marquee Moon,Marquee Moon (Elektra),Television,1977
+221,I Cant Explain,The Ultimate Collection (MCA),The Who,1965
+222,The Wind Cries Mary,Are You Experienced? (MCA),The Jimi Hendrix Experience,1967
+223,Im a Man,His Best: The Chess 50th Anniversary Collection (Chess),Bo Diddley,1955
+224,Personal Jesus,Violator (Sire),Depeche Mode,1989
+225,White Room,Wheels of Fire (Polygram),Cream,1968
+226,How Deep Is Your Love,Saturday Night Fever (Polygram),Bee Gees,1977
+227,Unchained Melody,Anthology 1962-1974 (Rhino),The Righteous Brothers,1965
+228,Highway 61 Revisited,Highway 61 Revisited (Columbia),Bob Dylan,1965
+229,The Letter,The Letter (Sundazed),The Box Tops,1967
+230,Complete Control,The Clash (Epic),The Clash,1979
+231,All You Need is Love,Magical Mystery Tour (Capitol),The Beatles,1967
+232,Killing Me Softly With His Song,Killing Me Softly (Atlantic),Roberta Flack,1973
+233,Got My Mojo Working,The Anthology (Chess/MCA),Muddy Waters,1957
+234,Nowhere to Run,The Ultimate Collection (Motown),Martha and the Vandellas,1965
+235,Little Wing,Axis: Bold as Love (Experience Hendrix/MCA),The Jimi Hendrix Experience,1968
+236,Sweet Dreams (Are Made of This),Sweet Dreams (RCA),Eurythmics,1983
+237,Bad Moon Rising,Green River (Fantasy),Creedence Clearwater Revival,1969
+238,Watching the Detectives,My Aim Is True (Rhino),Elvis Costello,1977
+239,Tears in Heaven,"""Rush"" Soundtrack (Warner Bros.)",Eric Clapton,1992
+240,All Shook Up,Elvis 30 #1 Hits (RCA),Elvis Presley,1957
+241,The Great Pretender,The Magic Touch: An Anthology (Mercury),The Platters,1955
+242,The Loco-Motion,The Loco-Motion (Rhino),Little Eva,1962
+243,Spanish Harlem,The Very Best of Ben E. King (Rhino),Ben E. King,1960
+244,That Lady (Part 1 and 2),The Essential Isley Brothers (Legacy),The Isley Brothers,1973
+245,Candle in the Wind,Goodbye Yellow Brick Road (Island),Elton John,1973
+246,California Love,Greatest Hits (Death Row),Dr. Dre and 2Pac,1996
+247,La Bamba,The Ritchie Valens Story (Rhino),Ritchie Valens,1958
+248,Piece of My Heart,Cheap Thrills (Columbia),Big Brother and the Holding Company,1968
+249,Jim Dandy,Soul on Fire: The Best of LaVern Baker (Atlantic),Lavern Baker,1956
+250,Runaround Sue,Runaround Sue (Capitol),Dion,1961
+251,Baby I Need Your Loving,The Ultimate Collection (Motown),The Four Tops,1964
+252,Just My Imagination,Anthology (Motown),The Temptations,1971
+253,Roxanne,Outlandos d'Amour (Interscope),The Police,1979
+254,Tiny Dancer,Madman Across the Water (Island),Elton John,1971
+255,Know You Got Soul,Paid in Full (Island),Eric B. and Rakim,19874
+256,Stills,Decade (Reprise),Crosby,1970
+257,Ticket to Ride,Help! (Capitol/Apple),The Beatles,1965
+258,Whipping Post,At Fillmore East (Mercury),The Allman Brothers Band,1969
+259,Bitter Sweet Symphony,Urban Hymns (Virgin),The Verve,1997
+260,Tell It Like It Is,Tell It Like It Is: Golden Classics (Collectables),Aaron Neville,1966
+261,Goodbye Yellow Brick Road,Goodbye Yellow Brick Road (Island),Elton John,1973
+262,Radio Free Europe,Murmur (A&M),R.E.M.,1983
+263,Pride (In the Name of Love),The Unforgettable Fire (Island),U2,1984
+264,Hit the Road Jack,Ultimate Hits Collection (Rhino),Ray Charles,1961
+265,Maps,Fever to Tell (Interscope),Yeah Yeah Yeahs,2004
+266,Fake Plastic Trees,The Bends (Capitol),Radiohead,1995
+267,Another Brick in the Wall Part 2,The Wall (Capitol),Pink Floyd,1979
+268,Brown Eyed Handsome Man,The Anthology (Chess),Chuck Berry,1956
+269,Wonderful World,Portrait of a Legend 1951-1964 (ABKCO),Sam Cooke,1960
+270,Marquee Moon,Marquee Moon (Elektra),Television,1977
+271,I Cant Explain,The Ultimate Collection (MCA),The Who,1965
+272,The Wind Cries Mary,Are You Experienced? (MCA),The Jimi Hendrix Experience,1967
+273,Im a Man,His Best: The Chess 50th Anniversary Collection (Chess),Bo Diddley,1955
+274,Personal Jesus,Violator (Sire),Depeche Mode,1989
+275,White Room,Wheels of Fire (Polygram),Cream,1968
+276,How Deep Is Your Love,Saturday Night Fever (Polygram),Bee Gees,1977
+277,Unchained Melody,Anthology 1962-1974 (Rhino),The Righteous Brothers,1965
+278,Highway 61 Revisited,Highway 61 Revisited (Columbia),Bob Dylan,1965
+279,The Letter,The Letter (Sundazed),The Box Tops,1967
+280,Complete Control,The Clash (Epic),The Clash,1979
+281,All You Need is Love,Magical Mystery Tour (Capitol),The Beatles,1967
+282,Killing Me Softly With His Song,Killing Me Softly (Atlantic),Roberta Flack,1973
+283,Got My Mojo Working,The Anthology (Chess/MCA),Muddy Waters,1957
+284,Nowhere to Run,The Ultimate Collection (Motown),Martha and the Vandellas,1965
+285,Little Wing,Axis: Bold as Love (Experience Hendrix/MCA),The Jimi Hendrix Experience,1968
+286,Sweet Dreams (Are Made of This),Sweet Dreams (RCA),Eurythmics,1983
+287,Bad Moon Rising,Green River (Fantasy),Creedence Clearwater Revival,1969
+288,Watching the Detectives,My Aim Is True (Rhino),Elvis Costello,1977
+289,Tears in Heaven,"""Rush"" Soundtrack (Warner Bros.)",Eric Clapton,1992
+290,All Shook Up,Elvis 30 #1 Hits (RCA),Elvis Presley,1957
+291,The Great Pretender,The Magic Touch: An Anthology (Mercury),The Platters,1955
+292,The Loco-Motion,The Loco-Motion (Rhino),Little Eva,1962
+293,Spanish Harlem,The Very Best of Ben E. King (Rhino),Ben E. King,1960
+294,That Lady (Part 1 and 2),The Essential Isley Brothers (Legacy),The Isley Brothers,1973
+295,Candle in the Wind,Goodbye Yellow Brick Road (Island),Elton John,1973
+296,California Love,Greatest Hits (Death Row),Dr. Dre and 2Pac,1996
+297,La Bamba,The Ritchie Valens Story (Rhino),Ritchie Valens,1958
+298,Piece of My Heart,Cheap Thrills (Columbia),Big Brother and the Holding Company,1968
+299,Jim Dandy,Soul on Fire: The Best of LaVern Baker (Atlantic),Lavern Baker,1956
+300,Runaround Sue,Runaround Sue (Capitol),Dion,1961
+301,Baby I Need Your Loving,The Ultimate Collection (Motown),The Four Tops,1964
+302,Just My Imagination,Anthology (Motown),The Temptations,1971
+303,Roxanne,Outlandos d'Amour (Interscope),The Police,1979
+304,Tiny Dancer,Madman Across the Water (Island),Elton John,1971
+305,Know You Got Soul,Paid in Full (Island),Eric B. and Rakim,1974
+306,Stills,Decade (Reprise),Crosby,1970
+307,Ticket to Ride,Help! (Capitol/Apple),The Beatles,1965
+308,Whipping Post,At Fillmore East (Mercury),The Allman Brothers Band,1969
+309,Bitter Sweet Symphony,Urban Hymns (Virgin),The Verve,1997
+310,Tell It Like It Is,Tell It Like It Is: Golden Classics (Collectables),Aaron Neville,1966
+311,Goodbye Yellow Brick Road,Goodbye Yellow Brick Road (Island),Elton John,1973
+312,Radio Free Europe,Murmur (A&M),R.E.M.,1983
+313,Pride (In the Name of Love),The Unforgettable Fire (Island),U2,1984
+314,Hit the Road Jack,Ultimate Hits Collection (Rhino),Ray Charles,1961
+315,Maps,Fever to Tell (Interscope),Yeah Yeah Yeahs,2004
+316,Fake Plastic Trees,The Bends (Capitol),Radiohead,1995
+317,Another Brick in the Wall Part 2,The Wall (Capitol),Pink Floyd,1979
+318,Brown Eyed Handsome Man,The Anthology (Chess),Chuck Berry,1956
+319,Wonderful World,Portrait of a Legend 1951-1964 (ABKCO),Sam Cooke,1960
+320,Marquee Moon,Marquee Moon (Elektra),Television,1977
+321,I Cant Explain,The Ultimate Collection (MCA),The Who,1965
+322,The Wind Cries Mary,Are You Experienced? (MCA),The Jimi Hendrix Experience,1967
+323,Im a Man,His Best: The Chess 50th Anniversary Collection (Chess),Bo Diddley,1955
+324,Personal Jesus,Violator (Sire),Depeche Mode,1989
+325,White Room,Wheels of Fire (Polygram),Cream,1968
+326,How Deep Is Your Love,Saturday Night Fever (Polygram),Bee Gees,1977
+327,Unchained Melody,Anthology 1962-1974 (Rhino),The Righteous Brothers,1965
+328,Highway 61 Revisited,Highway 61 Revisited (Columbia),Bob Dylan,1965
+329,The Letter,The Letter (Sundazed),The Box Tops,1967
+330,Complete Control,The Clash (Epic),The Clash,1979
+331,All You Need is Love,Magical Mystery Tour (Capitol),The Beatles,1967
+332,Killing Me Softly With His Song,Killing Me Softly (Atlantic),Roberta Flack,1973
+333,Got My Mojo Working,The Anthology (Chess/MCA),Muddy Waters,1957
+334,Nowhere to Run,The Ultimate Collection (Motown),Martha and the Vandellas,1965
+335,Little Wing,Axis: Bold as Love (Experience Hendrix/MCA),The Jimi Hendrix Experience,1968
+336,Sweet Dreams (Are Made of This),Sweet Dreams (RCA),Eurythmics,1983
+337,Bad Moon Rising,Green River (Fantasy),Creedence Clearwater Revival,1969
+338,Watching the Detectives,My Aim Is True (Rhino),Elvis Costello,1977
+339,Tears in Heaven,"""Rush"" Soundtrack (Warner Bros.)",Eric Clapton,1992
+340,All Shook Up,Elvis 30 #1 Hits (RCA),Elvis Presley,1957
+341,The Great Pretender,The Magic Touch: An Anthology (Mercury),The Platters,1955
+342,The Loco-Motion,The Loco-Motion (Rhino),Little Eva,1962
+343,Spanish Harlem,The Very Best of Ben E. King (Rhino),Ben E. King,1960
+344,That Lady (Part 1 and 2),The Essential Isley Brothers (Legacy),The Isley Brothers,1973
+345,Candle in the Wind,Goodbye Yellow Brick Road (Island),Elton John,1973
+346,California Love,Greatest Hits (Death Row),Dr. Dre and 2Pac,1996
+347,La Bamba,The Ritchie Valens Story (Rhino),Ritchie Valens,1958
+348,Piece of My Heart,Cheap Thrills (Columbia),Big Brother and the Holding Company,1968
+349,Jim Dandy,Soul on Fire: The Best of LaVern Baker (Atlantic),Lavern Baker,1956
+350,Runaround Sue,Runaround Sue (Capitol),Dion,1961
+351,Baby I Need Your Loving,The Ultimate Collection (Motown),The Four Tops,1964
+352,Just My Imagination,Anthology (Motown),The Temptations,1971
+353,Roxanne,Outlandos d'Amour (Interscope),The Police,1979
+354,Tiny Dancer,Madman Across the Water (Island),Elton John,1971
+355,Know You Got Soul,Paid in Full (Island),Eric B. and Rakim,1974
+356,Stills,Decade (Reprise),Crosby,1970
+357,Ticket to Ride,Help! (Capitol/Apple),The Beatles,1965
+358,Whipping Post,At Fillmore East (Mercury),The Allman Brothers Band,1969
+359,Bitter Sweet Symphony,Urban Hymns (Virgin),The Verve,1997
+360,Tell It Like It Is,Tell It Like It Is: Golden Classics (Collectables),Aaron Neville,1966
+361,Goodbye Yellow Brick Road,Goodbye Yellow Brick Road (Island),Elton John,1973
+362,Radio Free Europe,Murmur (A&M),R.E.M.,1983
+363,Pride (In the Name of Love),The Unforgettable Fire (Island),U2,1984
+364,Hit the Road Jack,Ultimate Hits Collection (Rhino),Ray Charles,1961
+365,Maps,Fever to Tell (Interscope),Yeah Yeah Yeahs,2004
+366,Fake Plastic Trees,The Bends (Capitol),Radiohead,1995
+367,Another Brick in the Wall Part 2,The Wall (Capitol),Pink Floyd,1979
+368,Brown Eyed Handsome Man,The Anthology (Chess),Chuck Berry,1956
+369,Wonderful World,Portrait of a Legend 1951-1964 (ABKCO),Sam Cooke,1960
+370,Marquee Moon,Marquee Moon (Elektra),Television,1977
+371,I Cant Explain,The Ultimate Collection (MCA),The Who,1965
+372,The Wind Cries Mary,Are You Experienced? (MCA),The Jimi Hendrix Experience,1967
+373,Im a Man,His Best: The Chess 50th Anniversary Collection (Chess),Bo Diddley,1955
+374,Personal Jesus,Violator (Sire),Depeche Mode,1989
+375,White Room,Wheels of Fire (Polygram),Cream,1968
+376,How Deep Is Your Love,Saturday Night Fever (Polygram),Bee Gees,1977
+377,Unchained Melody,Anthology 1962-1974 (Rhino),The Righteous Brothers,1965
+378,Highway 61 Revisited,Highway 61 Revisited (Columbia),Bob Dylan,1965
+379,The Letter,The Letter (Sundazed),The Box Tops,1967
+380,Complete Control,The Clash (Epic),The Clash,1979
+381,All You Need is Love,Magical Mystery Tour (Capitol),The Beatles,1967
+382,Killing Me Softly With His Song,Killing Me Softly (Atlantic),Roberta Flack,1973
+383,Got My Mojo Working,The Anthology (Chess/MCA),Muddy Waters,1957
+384,Nowhere to Run,The Ultimate Collection (Motown),Martha and the Vandellas,1965
+385,Little Wing,Axis: Bold as Love (Experience Hendrix/MCA),The Jimi Hendrix Experience,1968
+386,Sweet Dreams (Are Made of This),Sweet Dreams (RCA),Eurythmics,1983
+387,Bad Moon Rising,Green River (Fantasy),Creedence Clearwater Revival,1969
+388,Watching the Detectives,My Aim Is True (Rhino),Elvis Costello,1977
+389,Tears in Heaven,"""Rush"" Soundtrack (Warner Bros.)",Eric Clapton,1992
+390,All Shook Up,Elvis 30 #1 Hits (RCA),Elvis Presley,1957
+391,The Great Pretender,The Magic Touch: An Anthology (Mercury),The Platters,1955
+392,The Loco-Motion,The Loco-Motion (Rhino),Little Eva,1962
+393,Spanish Harlem,The Very Best of Ben E. King (Rhino),Ben E. King,1960
+394,That Lady (Part 1 and 2),The Essential Isley Brothers (Legacy),The Isley Brothers,1973
+395,Candle in the Wind,Goodbye Yellow Brick Road (Island),Elton John,1973
+396,California Love,Greatest Hits (Death Row),Dr. Dre and 2Pac,1996
+397,La Bamba,The Ritchie Valens Story (Rhino),Ritchie Valens,1958
+398,Piece of My Heart,Cheap Thrills (Columbia),Big Brother and the Holding Company,1968
+399,Jim Dandy,Soul on Fire: The Best of LaVern Baker (Atlantic),Lavern Baker,1956
+400,Runaround Sue,Runaround Sue (Capitol),Dion,1961
+401,Baby I Need Your Loving,The Ultimate Collection (Motown),The Four Tops,1964
+402,Just My Imagination,Anthology (Motown),The Temptations,1971
+403,Roxanne,Outlandos d'Amour (Interscope),The Police,1979
+404,Tiny Dancer,Madman Across the Water (Island),Elton John,1971
+405,Know You Got Soul,Paid in Full (Island),Eric B. and Rakim,19874
+406,Stills,Decade (Reprise),Crosby,1970
+407,Ticket to Ride,Help! (Capitol/Apple),The Beatles,1965
+408,Whipping Post,At Fillmore East (Mercury),The Allman Brothers Band,1969
+409,Bitter Sweet Symphony,Urban Hymns (Virgin),The Verve,1997
+410,Tell It Like It Is,Tell It Like It Is: Golden Classics (Collectables),Aaron Neville,1966
+411,Goodbye Yellow Brick Road,Goodbye Yellow Brick Road (Island),Elton John,1973
+412,Radio Free Europe,Murmur (A&M),R.E.M.,1983
+413,Pride (In the Name of Love),The Unforgettable Fire (Island),U2,1984
+414,Hit the Road Jack,Ultimate Hits Collection (Rhino),Ray Charles,1961
+415,Maps,Fever to Tell (Interscope),Yeah Yeah Yeahs,2004
+416,Fake Plastic Trees,The Bends (Capitol),Radiohead,1995
+417,Another Brick in the Wall Part 2,The Wall (Capitol),Pink Floyd,1979
+418,Brown Eyed Handsome Man,The Anthology (Chess),Chuck Berry,1956
+419,Wonderful World,Portrait of a Legend 1951-1964 (ABKCO),Sam Cooke,1960
+420,Marquee Moon,Marquee Moon (Elektra),Television,1977
+421,I Cant Explain,The Ultimate Collection (MCA),The Who,1965
+422,The Wind Cries Mary,Are You Experienced? (MCA),The Jimi Hendrix Experience,1967
+423,Im a Man,His Best: The Chess 50th Anniversary Collection (Chess),Bo Diddley,1955
+424,Personal Jesus,Violator (Sire),Depeche Mode,1989
+425,White Room,Wheels of Fire (Polygram),Cream,1968
+426,How Deep Is Your Love,Saturday Night Fever (Polygram),Bee Gees,1977
+427,Unchained Melody,Anthology 1962-1974 (Rhino),The Righteous Brothers,1965
+428,Highway 61 Revisited,Highway 61 Revisited (Columbia),Bob Dylan,1965
+429,The Letter,The Letter (Sundazed),The Box Tops,1967
+430,Complete Control,The Clash (Epic),The Clash,1979
+431,All You Need is Love,Magical Mystery Tour (Capitol),The Beatles,1967
+432,Killing Me Softly With His Song,Killing Me Softly (Atlantic),Roberta Flack,1973
+433,Got My Mojo Working,The Anthology (Chess/MCA),Muddy Waters,1957
+434,Nowhere to Run,The Ultimate Collection (Motown),Martha and the Vandellas,1965
+435,Little Wing,Axis: Bold as Love (Experience Hendrix/MCA),The Jimi Hendrix Experience,1968
+436,Sweet Dreams (Are Made of This),Sweet Dreams (RCA),Eurythmics,1983
+437,Bad Moon Rising,Green River (Fantasy),Creedence Clearwater Revival,1969
+438,Watching the Detectives,My Aim Is True (Rhino),Elvis Costello,1977
+439,Tears in Heaven,"""Rush"" Soundtrack (Warner Bros.)",Eric Clapton,1992
+440,All Shook Up,Elvis 30 #1 Hits (RCA),Elvis Presley,1957
+441,The Great Pretender,The Magic Touch: An Anthology (Mercury),The Platters,1955
+442,The Loco-Motion,The Loco-Motion (Rhino),Little Eva,1962
+443,Spanish Harlem,The Very Best of Ben E. King (Rhino),Ben E. King,1960
+444,That Lady (Part 1 and 2),The Essential Isley Brothers (Legacy),The Isley Brothers,1973
+445,Candle in the Wind,Goodbye Yellow Brick Road (Island),Elton John,1973
+446,California Love,Greatest Hits (Death Row),Dr. Dre and 2Pac,1996
+447,La Bamba,The Ritchie Valens Story (Rhino),Ritchie Valens,1958
+448,Piece of My Heart,Cheap Thrills (Columbia),Big Brother and the Holding Company,1968
+449,Jim Dandy,Soul on Fire: The Best of LaVern Baker (Atlantic),Lavern Baker,1956
+450,Runaround Sue,Runaround Sue (Capitol),Dion,1961
+451,Baby I Need Your Loving,The Ultimate Collection (Motown),The Four Tops,1964
+452,Just My Imagination,Anthology (Motown),The Temptations,1971
+453,Roxanne,Outlandos d'Amour (Interscope),The Police,1979
+454,Tiny Dancer,Madman Across the Water (Island),Elton John,1971
+455,Know You Got Soul,Paid in Full (Island),Eric B. and Rakim,1974
+456,Stills,Decade (Reprise),Crosby,1970
+457,Ticket to Ride,Help! (Capitol/Apple),The Beatles,1965
+458,Whipping Post,At Fillmore East (Mercury),The Allman Brothers Band,1969
+459,Bitter Sweet Symphony,Urban Hymns (Virgin),The Verve,1997
+460,Tell It Like It Is,Tell It Like It Is: Golden Classics (Collectables),Aaron Neville,1966
+461,Goodbye Yellow Brick Road,Goodbye Yellow Brick Road (Island),Elton John,1973
+462,Radio Free Europe,Murmur (A&M),R.E.M.,1983
+463,Pride (In the Name of Love),The Unforgettable Fire (Island),U2,1984
+464,Hit the Road Jack,Ultimate Hits Collection (Rhino),Ray Charles,1961
+465,Maps,Fever to Tell (Interscope),Yeah Yeah Yeahs,2004
+466,Fake Plastic Trees,The Bends (Capitol),Radiohead,1995
+467,Another Brick in the Wall Part 2,The Wall (Capitol),Pink Floyd,1979
+468,Brown Eyed Handsome Man,The Anthology (Chess),Chuck Berry,1956
+469,Wonderful World,Portrait of a Legend 1951-1964 (ABKCO),Sam Cooke,1960
+470,Marquee Moon,Marquee Moon (Elektra),Television,1977
+471,I Cant Explain,The Ultimate Collection (MCA),The Who,1965
+472,The Wind Cries Mary,Are You Experienced? (MCA),The Jimi Hendrix Experience,1967
+473,Im a Man,His Best: The Chess 50th Anniversary Collection (Chess),Bo Diddley,1955
+474,Personal Jesus,Violator (Sire),Depeche Mode,1989
+475,White Room,Wheels of Fire (Polygram),Cream,1968
+476,How Deep Is Your Love,Saturday Night Fever (Polygram),Bee Gees,1977
+477,Unchained Melody,Anthology 1962-1974 (Rhino),The Righteous Brothers,1965
+478,Highway 61 Revisited,Highway 61 Revisited (Columbia),Bob Dylan,1965
+479,The Letter,The Letter (Sundazed),The Box Tops,1967
+480,Complete Control,The Clash (Epic),The Clash,1979
+481,All You Need is Love,Magical Mystery Tour (Capitol),The Beatles,1967
+482,Killing Me Softly With His Song,Killing Me Softly (Atlantic),Roberta Flack,1973
+483,Got My Mojo Working,The Anthology (Chess/MCA),Muddy Waters,1957
+484,Nowhere to Run,The Ultimate Collection (Motown),Martha and the Vandellas,1965
+485,Little Wing,Axis: Bold as Love (Experience Hendrix/MCA),The Jimi Hendrix Experience,1968
+486,Sweet Dreams (Are Made of This),Sweet Dreams (RCA),Eurythmics,1983
+487,Bad Moon Rising,Green River (Fantasy),Creedence Clearwater Revival,1969
+488,Watching the Detectives,My Aim Is True (Rhino),Elvis Costello,1977
+489,Tears in Heaven,"""Rush"" Soundtrack (Warner Bros.)",Eric Clapton,1992
+490,All Shook Up,Elvis 30 #1 Hits (RCA),Elvis Presley,1957
+491,The Great Pretender,The Magic Touch: An Anthology (Mercury),The Platters,1955
+492,The Loco-Motion,The Loco-Motion (Rhino),Little Eva,1962
+493,Spanish Harlem,The Very Best of Ben E. King (Rhino),Ben E. King,1960
+494,That Lady (Part 1 and 2),The Essential Isley Brothers (Legacy),The Isley Brothers,1973
+495,Candle in the Wind,Goodbye Yellow Brick Road (Island),Elton John,1973
+496,California Love,Greatest Hits (Death Row),Dr. Dre and 2Pac,1996
+497,La Bamba,The Ritchie Valens Story (Rhino),Ritchie Valens,1958
+498,Piece of My Heart,Cheap Thrills (Columbia),Big Brother and the Holding Company,1968
+499,Jim Dandy,Soul on Fire: The Best of LaVern Baker (Atlantic),Lavern Baker,1956
+500,Runaround Sue,Runaround Sue (Capitol),Dion,1961
