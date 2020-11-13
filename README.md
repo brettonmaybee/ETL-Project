@@ -1,9 +1,12 @@
 # ETL-Project
-Bretton and Cindy's ETL Project /n
-Data sources: /n
+Bretton and Cindy's ETL Project 
+
+Data sources: 
+
 Billboard Chart Hot 600 https://www.billboard.com/charts/hot-100-60th-anniversary
 
 Rolling Stones Magazine Top 500 https://www.kaggle.com/omarhanyy/500-greatest-songs-of-all-time?select=Top+500+Songs.csv
+
 
 This repository includes: 
 A jupyter program 'Billboard600Scraper.ibynb' that will extract data from the Billboard Hot 600 web site (https://www.billboard.com/charts/hot-100-60th-anniversary) and save it as 'Billboard600.csv'
