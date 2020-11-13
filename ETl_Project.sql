@@ -1,0 +1,19 @@
+CREATE TABLE bb (
+CREATE TABLE BB (	
+	BB_Rank INT PRIMARY KEY,
+	Title VARCHAR,
+	Artist VARCHAR,
+	Date INT,
+	Genre VARCHAR,
+	Gender VARCHAR
+);
+
+ALTER TABLE BB RENAME COLUMN date to Year
+
+CREATE TABLE rs (
+	RS_Rank INT PRIMARY KEY,
+	Title VARCHAR,
+	Album VARCHAR,
+	Artist VARCHAR,
+	Year INT	
+)
